@@ -1,8 +1,8 @@
 {
-"version-name": "5.7",
-"version-code": "47",
-"force-update": "yes",
-"changes-log": "Now you can use Fogplix Anime via proxy if your ISP blocked our server.",
-"download-link": "https://fogplix-anime.com",
-"direct-download-link": "https://fogplix-anime.com/apk/Fogplix-Anime_v5.7.apk"
+"version-name": "2.0",
+"version-code": "02",
+"force-update": "no",
+"changes-log": "Json + Netscape support, No Proxies Required ",
+"download-link": "https://sayuzx.github.io/update-animasu/",
+"direct-download-link": "https://sayuzx.github.io/update-animasu/"
 }
