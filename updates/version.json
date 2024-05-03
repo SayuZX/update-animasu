@@ -1,8 +1,8 @@
 {
 "version-name": "2.0",
 "version-code": "02",
-"force-update": "no",
+"force-update": "yes",
 "changes-log": "Json + Netscape support, No Proxies Required ",
-"download-link": "https://sayuzx.github.io/update-animasu/",
-"direct-download-link": "https://sayuzx.github.io/update-animasu/"
+"download-link": "https://github.com/SayuZX/update-animasu/releases/download/2.0/Animasu_v2.0.apk",
+"direct-download-link": "https://github.com/SayuZX/update-animasu/releases/download/2.0/Animasu_v2.0.apk"
 }
