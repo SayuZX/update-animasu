@@ -51,9 +51,6 @@ Dealing with series translated by multiple groups that result in duplicate episo
 
 Bookmark or mark as watched the undesired episodes, then open the **Filter** menu, ensure you're on the **Filter** tab, then double-tap **Bookmarked** or single-tap **Unwatched**.
 
-This hides bookmarked or watched episodes, enabling you to skip them as you watch.
-Ensure [Skip filtered episodes](/docs/guides/reader-settings#skip-filtered-episodes) is enabled at <nav to="reader"> under the section **Watching**.
-
 Alternatively, migrate to a source without duplicates.
 Refer to the [migration guide](/docs/guides/source-migration) for detailed instructions.
 
