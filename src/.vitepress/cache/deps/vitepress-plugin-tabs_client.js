@@ -2,11 +2,11 @@ import {
   reactive,
   watch
 } from "./chunk-7X2B4LTL.js";
-import "./chunk-3DORS7XF.js";
+import "./chunk-PXG64RU4.js";
 
 // node_modules/.pnpm/vitepress-plugin-tabs@0.5.0_vitepress@1.2.3_@algolia+client-search@4.20.0_@types+node@20.14.9_tupziesaug5tqfxoedcuotzgiq/node_modules/vitepress-plugin-tabs/src/client/index.ts
-import PluginTabs from "C:/Users/raiha/Documents/kumanime-website/website/node_modules/.pnpm/vitepress-plugin-tabs@0.5.0_vitepress@1.2.3_@algolia+client-search@4.20.0_@types+node@20.14.9_tupziesaug5tqfxoedcuotzgiq/node_modules/vitepress-plugin-tabs/src/client/PluginTabs.vue";
-import PluginTabsTab from "C:/Users/raiha/Documents/kumanime-website/website/node_modules/.pnpm/vitepress-plugin-tabs@0.5.0_vitepress@1.2.3_@algolia+client-search@4.20.0_@types+node@20.14.9_tupziesaug5tqfxoedcuotzgiq/node_modules/vitepress-plugin-tabs/src/client/PluginTabsTab.vue";
+import PluginTabs from "C:/Users/raiha/p/node_modules/.pnpm/vitepress-plugin-tabs@0.5.0_vitepress@1.2.3_@algolia+client-search@4.20.0_@types+node@20.14.9_tupziesaug5tqfxoedcuotzgiq/node_modules/vitepress-plugin-tabs/src/client/PluginTabs.vue";
+import PluginTabsTab from "C:/Users/raiha/p/node_modules/.pnpm/vitepress-plugin-tabs@0.5.0_vitepress@1.2.3_@algolia+client-search@4.20.0_@types+node@20.14.9_tupziesaug5tqfxoedcuotzgiq/node_modules/vitepress-plugin-tabs/src/client/PluginTabsTab.vue";
 
 // node_modules/.pnpm/vitepress-plugin-tabs@0.5.0_vitepress@1.2.3_@algolia+client-search@4.20.0_@types+node@20.14.9_tupziesaug5tqfxoedcuotzgiq/node_modules/vitepress-plugin-tabs/src/client/useTabsSelectedState.ts
 var injectionKey = "vitepress:tabSharedState";

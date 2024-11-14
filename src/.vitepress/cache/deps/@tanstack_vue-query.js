@@ -23,7 +23,7 @@ import {
   __privateMethod,
   __privateSet,
   __privateWrapper
-} from "./chunk-3DORS7XF.js";
+} from "./chunk-PXG64RU4.js";
 
 // node_modules/.pnpm/@tanstack+query-core@5.49.1/node_modules/@tanstack/query-core/build/modern/subscribable.js
 var Subscribable = class {
